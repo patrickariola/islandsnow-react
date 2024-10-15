@@ -1,4 +1,11 @@
 footer{
     background-color: #292929;
     color: white;
+    width: 100%;
 }
+
+body {
+    margin: 0; /* Remove default body margin */
+    padding: 0; /* Remove default body padding */
+}
+
